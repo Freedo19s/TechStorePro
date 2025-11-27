@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://techstorepro.onrender.com/</loc>
-    <lastmod>2025-11-27</lastmod>
-    <priority>1.00</priority>
+    <lastmod>2025-01-01</lastmod>
+    <priority>1.0</priority>
   </url>
-
-  <url>
-    <loc>https://techstorepro.onrender.com/formation-trading</loc>
-    <lastmod>2025-11-27</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://techstorepro.onrender.com/robot-trading-automatique</loc>
-    <lastmod>2025-11-27</lastmod>
-    <priority>0.70</priority>
-  </url>
-
-  <url>
-    <loc>https://techstorepro.onrender.com/analyse-technique-trading</loc>
-    <lastmod>2025-11-27</lastmod>
-    <priority>0.75</priority>
-  </url>
-
 </urlset>
